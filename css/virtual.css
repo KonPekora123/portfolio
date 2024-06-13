@@ -272,7 +272,7 @@ a:hover, a:active {
     right: 0;
 }
 
-.template-config {
+.settings-config {
     position: relative;
     display: block;
     float: left;
@@ -283,14 +283,14 @@ a:hover, a:active {
     box-shadow: -3px 2px 9px rgba(50, 50, 50, 0.2);
 }
 
-.template-config .btn-fab {
+.settings-config .btn-fab {
     background-color: transparent !important;
     color: #52565c !important;
     margin: 3px 0;
 }
 
-.template-config .btn-fab:hover,
-.template-config .btn-fab:focus {
+.settings-config .btn-fab:hover,
+.settings-config .btn-fab:focus {
     background-color: #f2f4fa !important;
 }
 
